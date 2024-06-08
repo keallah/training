@@ -3,7 +3,7 @@
 [node name="Node2D" type="Node2D"]
 
 [node name="Button" type="Button" parent="."]
-offset_left = -16.0
-offset_top = -5.0
-offset_right = 22.0
-offset_bottom = 3.0
+offset_left = -19.0
+offset_top = -10.0
+offset_right = 19.0
+offset_bottom = -2.0
